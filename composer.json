@@ -1,0 +1,17 @@
+{
+    "require": {
+        "symfony/http-foundation": "^5.0@dev"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Pitsolu",
+            "email": "pitsolu@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+
+        "psr-0": { "App\\": "src/"}
+    }
+}
